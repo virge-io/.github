@@ -19,7 +19,7 @@
 
 ## Open source: ShopVirge
 
-[`shopvirge-backend`](https://github.com/virge-io/shopvirge-backend) is the FastAPI engine
+[shopvirge-backend](https://github.com/virge-io/shopvirge-backend) is our open-source FastAPI engine
 behind **[ShopVirge](https://shopvirge.com/en/)**, a headless, multi-tenant eCommerce
 platform for launching multilingual webshops in minutes, with Stripe checkout, automatic
 translation, and MCP support for AI agents.
